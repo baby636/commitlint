@@ -84,7 +84,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.22.0",
     "@lerna/project": "4.0.0",
     "@types/jest": "26.0.23",
     "@types/node": "12.20.12",
